@@ -27,16 +27,17 @@
 ## 🧠 SOBRE_MIM.exe
 
 ```yaml
-Nome:        Kauã Pereira Moreira
-Localização: São Caetano do Sul, SP - Brasil
-Formação:    Técnico em TI (ênfase em Cyber e IA) - SENAI
-Base atual:  C++ aplicado a sistemas embarcados (Arduino)
-Objetivo:    Full Stack Developer
-Modo:        Aprendizado contínuo e acelerado
-Buscando:    Estágio / primeira oportunidade (presencial, híbrido ou remoto)
+Nome:         Kauã Pereira Moreira
+Localização:  São Caetano do Sul, SP - Brasil
+Formação:     Técnico em Desenvolvimento de Sistemas - SENAI-SP
+Sprint atual: Sprint 2 - Virtualização (100h)
+Concluído:    Sprint 1 - Ambientação e Nivelamento (60h)
+Base atual:   Lógica de programação com C++ em Arduino
+Objetivo:     Full Stack Developer
+Buscando:     Estágio / primeira oportunidade (presencial, híbrido ou remoto)
 ```
 
-Comecei minha jornada na programação pelo caminho do **hardware**: usando **C++ em Arduino** para dar vida a circuitos e sensores. Agora estou expandindo essa base para o desenvolvimento **full stack**, seguindo um roteiro de estudos estruturado — do controle de versão à lógica de programação, orientação a objetos e desenvolvimento web completo.
+Comecei minha jornada na programação pelo caminho do **hardware**: usando **C++ em Arduino** para aplicar lógica de programação, variáveis, operadores e estruturas condicionais em circuitos e sensores reais. Já concluí a Sprint 1 (Ambientação e Nivelamento) do curso técnico e estou avançando na Sprint 2 - Virtualização, consolidando essa base antes de seguir para banco de dados, redes, sistemas operacionais e desenvolvimento web completo.
 
 Curiosidade não me falta, e cada linha de código é um passo a mais na reconstrução da minha trajetória.
 
@@ -44,17 +45,24 @@ Curiosidade não me falta, e cada linha de código é um passo a mais na reconst
 
 ## ⚙️ TECH_STACK.json
 
-**🟢 Base atual**
+**🟢 Base atual — Sprint 2: Virtualização**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,arduino,git,github&theme=dark" alt="Stack atual"/>
 </div>
 
-**🟡 Em treinamento — próximos módulos do roadmap**
+- Lógica de programação: variáveis e operadores aritméticos
+- Estruturas condicionais
+- Manipulação de componentes: LED, botão, buzzer, LCD-I2C
+- Leitura de sensores: LDR, TMP36, ultrassônico, umidade do solo, potenciômetro
+
+**🟡 Em treinamento — próximos módulos do curso (SENAI)**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=c,java,html,css,js,spring,mysql,react&theme=dark" alt="Roadmap de estudos"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,linux,mysql,html,css,js,flutter&theme=dark" alt="Roadmap de estudos"/>
 </div>
+
+`Arquitetura de Redes/IoT` · `Sistemas Operacionais` · `Banco de Dados` · `Linguagem de Marcação` · `Back-end` · `Front-end` · `Dispositivos Móveis`
 
 <br/>
 
@@ -94,22 +102,32 @@ Curiosidade não me falta, e cada linha de código é um passo a mais na reconst
 ## 🎯 OBJETIVOS_ATUAIS.sh
 
 ```bash
-kaua@dev:~$ cat roadmap.txt
+kaua@dev:~$ cat plano_de_curso.txt
 
-[x] Lógica de programação — fundamentos
-[ ] Git & GitHub — versionamento e portfólio
-[ ] Lógica de programação em C
-[ ] Orientação a Objetos em Java
-[ ] HTML, CSS & JavaScript
-[ ] Spring Boot + MySQL
-[ ] React
-[ ] Projeto final — portfólio full stack
+MÓDULO I - BÁSICO (300h)
+  [x] Sprint 1 - Ambientação e Nivelamento (60h)
+  [~] Sprint 2 - Virtualização (100h) — Lógica de Programação c/ Arduino
+  [ ] Levantamento de Requisitos (60h)
+  [ ] Arquitetura de Redes com IoT (75h)
+  [ ] Sistemas Operacionais (90h)
+
+MÓDULO II - ESPECÍFICO I (720h)
+  [ ] Banco de Dados (75h)
+  [ ] Linguagem de Marcação (75h)
+  [ ] Programação Back-end (225h)
+  [ ] Programação Front-end (150h)
+  [ ] Programação para Dispositivos Móveis (120h)
+  [ ] Internet das Coisas (75h)
+
+MÓDULO III - ESPECÍFICO II (180h)
+  [ ] Teste de Software (45h)
+  [ ] Projetos de Software (135h)
 
 kaua@dev:~$ echo $STATUS
-> Em progresso... 🚀
+> Sprint 2 em andamento... 🚀
 
 kaua@dev:~$ echo $PROXIMO_PASSO
-> Consolidar Git/GitHub e avançar para lógica em C
+> Concluir a Sprint 2 (Virtualização) e seguir para Levantamento de Requisitos
 ```
 
 <br/>
