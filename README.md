@@ -100,8 +100,6 @@ Curiosidade não me falta, e cada linha de código é um passo a mais na reconst
 ## 🎯 Objetivos
 
 ```bash
-kaua@dev:~$ cat conhecimentos.txt
-
 SEI HOJE:
 - Lógica de programação (variáveis, operadores aritméticos, estruturas condicionais)
 - C++ aplicado a Arduino
@@ -119,8 +117,7 @@ VOU APRENDER:
 - Programação para Dispositivos Móveis
 - Testes e Projetos de Software
 
-kaua@dev:~$ echo $STATUS
-> Em constante evolução... 🚀
+STATUS: Em constante evolução... 🚀
 ```
 
 <br/>
@@ -154,24 +151,18 @@ kaua@dev:~$ echo $STATUS
 
 ## 🐍 Contribuições
 
+<!--
+  Essa animação depende do arquivo snake.yml rodando como GitHub Action
+  no repositório especial kauapmoreira/kauapmoreira:
+  1. Crie o repositório kauapmoreira/kauapmoreira (mesmo nome do usuário).
+  2. Coloque o snake.yml em .github/workflows/snake.yml.
+  3. Faça commit e rode a Action (ou espere o cron dela rodar sozinha).
+  Sem isso, a imagem abaixo fica vazia.
+-->
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/kauapmoreira/kauapmoreira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
-
-<details>
-<summary>⚡ Como ativar a animação da cobrinha (clique para expandir)</summary>
-
-<br/>
-
-Essa animação **não aparece sozinha** — ela precisa de uma GitHub Action rodando no seu repositório especial `kauapmoreira/kauapmoreira`. Passo a passo:
-
-1. Crie um repositório com o **mesmo nome do seu usuário** (ex: `kauapmoreira/kauapmoreira`) — é o repositório especial que vira seu perfil.
-2. Dentro dele, crie a pasta `.github/workflows/`.
-3. Adicione um arquivo `snake.yml` (o arquivo `snake.yml` já está pronto para você, junto com este README).
-4. Faça commit e aguarde a Action rodar (ou rode manualmente em **Actions**).
-5. Pronto — a imagem acima passa a exibir sua cobrinha "comendo" seus commits.
-
-</details>
 
 <br/>
 
