@@ -1,7 +1,7 @@
 <!--
   ============================================================
   README PERFIL GITHUB — TEMA CYBERPUNK / JARVIS
-  Dados já preenchidos: GitHub, LinkedIn, e-mail e Instagram.
+  Dados já preenchidos: GitHub, LinkedIn e e-mail.
   Falta só trocar REPO-1 / REPO-2 na seção de projetos quando
   você tiver repositórios reais para exibir.
   ============================================================
@@ -24,28 +24,26 @@
 
 <br/>
 
-## 🧠 SOBRE_MIM.exe
+## 🧠 Sobre Mim
 
 ```yaml
-Nome:         Kauã Pereira Moreira
-Localização:  São Caetano do Sul, SP - Brasil
-Formação:     Técnico em Desenvolvimento de Sistemas - SENAI-SP
-Sprint atual: Sprint 2 - Virtualização (100h)
-Concluído:    Sprint 1 - Ambientação e Nivelamento (60h)
-Base atual:   Lógica de programação com C++ em Arduino
-Objetivo:     Full Stack Developer
-Buscando:     Estágio / primeira oportunidade (presencial, híbrido ou remoto)
+Nome:        Kauã Pereira Moreira
+Localização: São Caetano do Sul, SP - Brasil
+Formação:    Técnico em Desenvolvimento de Sistemas - SENAI-SP
+Base atual:  Lógica de programação com C++ em Arduino
+Objetivo:    Full Stack Developer
+Buscando:    Estágio / primeira oportunidade (presencial, híbrido ou remoto)
 ```
 
-Comecei minha jornada na programação pelo caminho do **hardware**: usando **C++ em Arduino** para aplicar lógica de programação, variáveis, operadores e estruturas condicionais em circuitos e sensores reais. Já concluí a Sprint 1 (Ambientação e Nivelamento) do curso técnico e estou avançando na Sprint 2 - Virtualização, consolidando essa base antes de seguir para banco de dados, redes, sistemas operacionais e desenvolvimento web completo.
+Comecei minha jornada na programação pelo caminho do **hardware**: usando **C++ em Arduino** para aplicar lógica de programação, variáveis, operadores e estruturas condicionais em circuitos e sensores reais. Estou avançando nos estudos para seguir com banco de dados, redes, sistemas operacionais e desenvolvimento web completo.
 
 Curiosidade não me falta, e cada linha de código é um passo a mais na reconstrução da minha trajetória.
 
 <br/>
 
-## ⚙️ TECH_STACK.json
+## ⚙️ Tech Stack
 
-**🟢 Base atual — Sprint 2: Virtualização**
+**🟢 Base atual**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,arduino,git,github&theme=dark" alt="Stack atual"/>
@@ -66,7 +64,7 @@ Curiosidade não me falta, e cada linha de código é um passo a mais na reconst
 
 <br/>
 
-## 🛠️ FERRAMENTAS.config
+## 🛠️ Ferramentas
 
 <div align="center">
 
@@ -80,7 +78,7 @@ Curiosidade não me falta, e cada linha de código é um passo a mais na reconst
 
 <br/>
 
-## 💼 PROJETOS_EM_DESTAQUE
+## 💼 Projetos em Destaque
 
 <!-- Troque REPO-1 / REPO-2 / REPO-3 pelos nomes reais dos seus repositórios assim que existirem -->
 
@@ -99,40 +97,35 @@ Curiosidade não me falta, e cada linha de código é um passo a mais na reconst
 
 <br/>
 
-## 🎯 OBJETIVOS_ATUAIS.sh
+## 🎯 Objetivos
 
 ```bash
-kaua@dev:~$ cat plano_de_curso.txt
+kaua@dev:~$ cat conhecimentos.txt
 
-MÓDULO I - BÁSICO (300h)
-  [x] Sprint 1 - Ambientação e Nivelamento (60h)
-  [~] Sprint 2 - Virtualização (100h) — Lógica de Programação c/ Arduino
-  [ ] Levantamento de Requisitos (60h)
-  [ ] Arquitetura de Redes com IoT (75h)
-  [ ] Sistemas Operacionais (90h)
+SEI HOJE:
+- Lógica de programação (variáveis, operadores aritméticos, estruturas condicionais)
+- C++ aplicado a Arduino
+- Manipulação de sensores e componentes: LED, botão, buzzer, LCD-I2C, LDR, TMP36, ultrassônico, umidade do solo, potenciômetro
+- Git & GitHub
 
-MÓDULO II - ESPECÍFICO I (720h)
-  [ ] Banco de Dados (75h)
-  [ ] Linguagem de Marcação (75h)
-  [ ] Programação Back-end (225h)
-  [ ] Programação Front-end (150h)
-  [ ] Programação para Dispositivos Móveis (120h)
-  [ ] Internet das Coisas (75h)
-
-MÓDULO III - ESPECÍFICO II (180h)
-  [ ] Teste de Software (45h)
-  [ ] Projetos de Software (135h)
+VOU APRENDER:
+- Levantamento de Requisitos
+- Arquitetura de Redes com IoT
+- Sistemas Operacionais
+- Banco de Dados
+- Linguagem de Marcação (HTML/CSS)
+- Programação Back-end
+- Programação Front-end
+- Programação para Dispositivos Móveis
+- Testes e Projetos de Software
 
 kaua@dev:~$ echo $STATUS
-> Sprint 2 em andamento... 🚀
-
-kaua@dev:~$ echo $PROXIMO_PASSO
-> Concluir a Sprint 2 (Virtualização) e seguir para Levantamento de Requisitos
+> Em constante evolução... 🚀
 ```
 
 <br/>
 
-## 📊 SYSTEM_STATS.log
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -151,7 +144,7 @@ kaua@dev:~$ echo $PROXIMO_PASSO
 
 <br/>
 
-## 🏆 CONQUISTAS.trophy
+## 🏆 Conquistas
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=kauapmoreira&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8"/>
@@ -159,7 +152,7 @@ kaua@dev:~$ echo $PROXIMO_PASSO
 
 <br/>
 
-## 🐍 CONTRIBUTION_MATRIX
+## 🐍 Contribuições
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/kauapmoreira/kauapmoreira/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
@@ -182,14 +175,13 @@ Essa animação **não aparece sozinha** — ela precisa de uma GitHub Action ro
 
 <br/>
 
-## 🌐 CONECTE-SE
+## 🌐 Conecte-se
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/kau%C3%A3pereira/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/kauapmoreira)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00C8)](https://www.instagram.com/eopereir_/)
-[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=9D00FF)](mailto:kauazinhopereira5@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=9D00FF)](https://mail.google.com/mail/?view=cm&fs=1&to=kauazinhopereira5@gmail.com)
 
 </div>
 
