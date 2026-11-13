@@ -29,7 +29,7 @@ Comecei minha jornada na programação pelo **hardware**, usando **C++ em Arduin
 
 <div align="center">
   <a href="https://github.com/kauapmoreira/Login-Natura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauapmoreira&repo=Login-Natura&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9&cache_seconds=86400" />
+    ![Login-Natura](https://github-readme-stats.vercel.app/api/pin/?username=kauapmoreira&repo=Login-Natura&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9)
   </a>
 </div>
 
@@ -38,8 +38,8 @@ Comecei minha jornada na programação pelo **hardware**, usando **C++ em Arduin
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kauapmoreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9&ring_color=FF00C8&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauapmoreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&cache_seconds=86400" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauapmoreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9&ring_color=FF00C8)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauapmoreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9)
 </div>
 
 <br/>
@@ -50,7 +50,7 @@ Comecei minha jornada na programação pelo **hardware**, usando **C++ em Arduin
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kauapmoreira/kauapmoreira/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kauapmoreira/kauapmoreira/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/kauapmoreira/kauapmoreira/output/pacman-contribution-graph.svg">
+    <img alt="" src="https://raw.githubusercontent.com/kauapmoreira/kauapmoreira/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
