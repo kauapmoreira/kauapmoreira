@@ -27,23 +27,20 @@ Comecei minha jornada na programação pelo **hardware**, usando **C++ em Arduin
 
 ## 💼 Projetos em Destaque
 
-<div align="center">
-
-[![Login-Natura](https://github-readme-stats.vercel.app/api/pin/?username=kauapmoreira&repo=Login-Natura&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9)](https://github.com/kauapmoreira/Login-Natura)
-
-</div>
+<p align="center">
+  <a href="https://github.com/kauapmoreira/Login-Natura" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauapmoreira&repo=Login-Natura&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9" alt="Projeto Login Natura" />
+  </a>
+</p>
 
 <br/>
 
 ## 📊 Estatísticas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauapmoreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9&ring_color=FF00C8)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauapmoreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9)
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kauapmoreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9&ring_color=FF00C8" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauapmoreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+</p>
 
 <br/>
 
@@ -56,7 +53,6 @@ Comecei minha jornada na programação pelo **hardware**, usando **C++ em Arduin
     <img alt="" src="https://raw.githubusercontent.com/kauapmoreira/kauapmoreira/output/pacman-contribution-graph.svg">
   </picture>
 </div>
-
 <br/>
 
 ## 🌐 Conecte-se
