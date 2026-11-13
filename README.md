@@ -27,23 +27,26 @@ Comecei minha jornada na programação pelo **hardware**, usando **C++ em Arduin
 
 ## 💼 Projetos em Destaque
 
+> 💡 **Aviso:** Assim que tiveres repositórios públicos, retira os comentários (`<!--` e `-->`) no teu README e substitui "NOME-DO-REPO" pelo nome do teu projeto para os cards aparecerem!
+
+<!-- 
 <div align="center">
-  <a href="https://github.com/kauapmoreira/REPO-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauapmoreira&repo=REPO-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/kauapmoreira/REPO-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauapmoreira&repo=REPO-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9" />
+  <a href="https://github.com/kauapmoreira/NOME-DO-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kauapmoreira&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9" />
   </a>
 </div>
-<p align="center"><i>(Substitua REPO-1 e REPO-2 pelos nomes dos seus repositórios reais quando tiver projetos prontos)</i></p>
+-->
 
 <br/>
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kauapmoreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9&ring_color=FF00C8"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauapmoreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kauapmoreira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=9D00FF&text_color=C9D1D9&ring_color=FF00C8)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kauapmoreira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9)
+
 </div>
 
 <br/>
@@ -63,7 +66,9 @@ Comecei minha jornada na programação pelo **hardware**, usando **C++ em Arduin
 ## 🌐 Conecte-se
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/kauapmoreira/)
-  [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/kauapmoreira)
-  [![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=9D00FF)](https://mail.google.com/mail/?view=cm&fs=1&to=kauazinhopereira5@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://www.linkedin.com/in/kauapmoreira/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/kauapmoreira)
+[![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=9D00FF)](https://mail.google.com/mail/?view=cm&fs=1&to=kauazinhopereira5@gmail.com)
+
 </div>
